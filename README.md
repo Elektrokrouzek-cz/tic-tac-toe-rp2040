@@ -8,3 +8,4 @@ PCB is 2-layer and was designed using KiCad 9. Fabrication output for JLCPCB is 
 **Happy coldering and coding**
 
 ![Assembled PCB](doc/TicTacToe%20-%20AssembledPCB.png)
+![Assembled PCB](doc/TicTacToe%20-%20AssembledGame.png)
